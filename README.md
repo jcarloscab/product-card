@@ -25,8 +25,7 @@ Construcción de un tarjeta de Producto donde los usuarios puedan:
 
 ### Links
 
-- URL: [Add solution URL here](https://your-solution-url.com)
-- URL: [Add live site URL here](https://your-live-site-url.com)
+- URL: [product-card](https://jcarloscab.github.io/product-card/)
 
 ## Tecnologías usadas
 
