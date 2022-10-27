@@ -25,7 +25,8 @@ Construcción de un tarjeta de Producto donde los usuarios puedan:
 
 ### Links
 
-- URL: [product-card](https://jcarloscab.github.io/product-card/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/product-preview-card-component-UJg_-1GqI8)
+- Live site URL: [Live site](https://jcarloscab.github.io/product-card/)
 
 ## Tecnologías usadas
 
